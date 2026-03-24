@@ -1,1 +1,1 @@
-# ipwall
+# neti_wall
